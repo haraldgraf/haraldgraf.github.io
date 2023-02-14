@@ -1,0 +1,12 @@
+base_url = "https://hg23.at"
+compile_sass = true
+build_search_index = false
+default_language = "de"
+theme = "juice"
+
+[markdown]
+highlight_code = false
+
+[extra]
+juice_logo_name = "Haustechnik"
+juice_logo_path = "hg23.svg"
