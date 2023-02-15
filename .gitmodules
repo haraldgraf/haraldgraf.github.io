@@ -1,7 +1,3 @@
 [submodule "themes/juice"]
 	path = themes/juice
 	url = https://github.com/huhu/juice
-[submodule "themes/blow"]
-	path = themes/blow
-	url = git@github.com:tchartron/blow.git
-	branch = main
