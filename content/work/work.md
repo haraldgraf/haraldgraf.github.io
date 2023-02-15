@@ -31,11 +31,11 @@ Allgemein beeideter und gerichtlich zertifizierter Sachverständiger für
 # Sonstige Tätigkeiten
 
 Mitarbeit im Österreichischen Normungsinstitut:
-    - ON-AG 058.01 Planung
-    - ON-AG 058.10 Flächenheizung
-    - ON-AG 122.08 Rohrleitungssysteme innerhalb von Gebäuden
-    - ON-AG 173.03 Hydraulische Schaltungen und Stagnationsverhalten
-    - ON-AG 122.19 Technische Maßnahmen gegen Erwärmung des Trinkwassers innerhalb von Gebäuden
+- ON-AG 058.01 Planung
+- ON-AG 058.10 Flächenheizung
+- ON-AG 122.08 Rohrleitungssysteme innerhalb von Gebäuden
+- ON-AG 173.03 Hydraulische Schaltungen und Stagnationsverhalten
+- ON-AG 122.19 Technische Maßnahmen gegen Erwärmung des Trinkwassers innerhalb von Gebäuden
 
 ## seit 2010
 
