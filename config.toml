@@ -61,12 +61,12 @@ items = [
 
 [extra.index]
 title = "Mst. Harald Graf"
-image = "harald_graf.png"
+image = "https://hg23.at/harald_graf.png"
 image_alt = "HG23"
 
 [extra.default_author]
 name = "Harald Graf"
-avatar = "harald_graf.png"
+avatar = "https://hg23.at/harald_graf.png"
 avatar_alt = "Harald Graf"
 
 [extra.social]
