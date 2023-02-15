@@ -1,12 +1,77 @@
 base_url = "https://hg23.at"
 compile_sass = true
-build_search_index = false
+build_search_index = true
 default_language = "de"
-theme = "juice"
+
+theme = "blow"
+
+taxonomies = [
+    {name = "tags", paginate_by = 5, feed = true},
+    {name = "categories", paginate_by = 5, feed = true},
+]
 
 [markdown]
 highlight_code = false
 
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = true
+# Whether to include the path of the page/section in the index
+include_path = true
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+# At which character to truncate the content to. Useful if you have a lot of pages and the index would
+# become too big to load on the site. Defaults to not being set.
+truncate_content_length = 100
+
 [extra]
-juice_logo_name = "Haustechnik"
-juice_logo_path = "hg23_logo.svg"
+enable_search = true
+enable_sidebar = true
+enable_adsense = false
+enable_multilingue = false
+
+[extra.navbar]
+title = "HG23"
+items = [
+    { lang = "de", links = [
+        { url = "/", name = "Home" },
+        { url = "/categories", name = "Kategorien" },
+        { url = "/tags", name = "Stichworte" },
+    ] },
+]
+
+[extra.sidebar]
+items = [
+    { lang = "de", links = [
+      { url = "/education", name = "Ausbildung" },
+      { url = "/work", name = "Berufslaufbahn" }
+    ]},
+    { lang = "en", links = [
+      { url = "/en/education", name = "Education" },
+      { url = "/en/work", name = "Work" }
+    ]}
+]
+
+[extra.index]
+title = "Mst. Harald Graf"
+image = "harald_graf.png"
+image_alt = "HG23"
+
+[extra.default_author]
+name = "Harald Graf"
+avatar = "harald_graf.png"
+avatar_alt = "Harald Graf"
+
+[extra.social]
+github = ""
+gitlab = ""
+twitter = ""
+linkedin = ""
+email = "harald.graf@hg23.at"
