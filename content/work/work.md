@@ -2,7 +2,7 @@
 title = "Berufslaufbahn"
 date = 2023-02-15
 [taxonomies]
-categories = ["Berufslaufbahn"]
+categories = ["Berufslaufbahn","Beruf"]
 tags = [
     "HKLS",
     "Sachverständiger",
