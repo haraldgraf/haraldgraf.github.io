@@ -2,7 +2,7 @@
 title = "Ausbildung"
 date = 2023-02-15
 [taxonomies]
-categories=["Ausbildung","Meine Ausbildung"]
+categories=["Meine Ausbildung"]
 tags=[
     "Wasserleitungsinstallateur",
     "Zentralheizungsbauer",
