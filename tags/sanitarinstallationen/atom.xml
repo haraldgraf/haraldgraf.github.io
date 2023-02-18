@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+	<title> - Sanitärinstallationen</title>
+	<link href="https://hg23.at/tags/sanitarinstallationen/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://hg23.at"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-02-15T00:00:00+00:00</updated>
+	<id>https://hg23.at/tags/sanitarinstallationen/atom.xml</id>
+	<entry xml:lang="de">
+		<title>Berufslaufbahn</title>
+		<published>2023-02-15T00:00:00+00:00</published>
+		<updated>2023-02-15T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://hg23.at/work/work/" type="text/html"/>
+		<id>https://hg23.at/work/work/</id>
+		<content type="html">&lt;h1 id=&quot;berufslaufbahn&quot;&gt;Berufslaufbahn&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;seit-1979&quot;&gt;seit 1979&lt;&#x2F;h2&gt;
+&lt;p&gt;Wasserleitungsinstallateur und Zentralheizungsbauer bzw. HKLS-Techniker&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;seit-2010&quot;&gt;seit 2010&lt;&#x2F;h2&gt;
+&lt;p&gt;Allgemein beeideter und gerichtlich zertifizierter Sachverständiger für
+73.45 Sanitärinstallationen, Sanitäranlagen&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;sonstige-tatigkeiten&quot;&gt;Sonstige Tätigkeiten&lt;&#x2F;h1&gt;
+&lt;p&gt;Mitarbeit im Österreichischen Normungsinstitut:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;ON-AG 058.01 Planung&lt;&#x2F;li&gt;
+&lt;li&gt;ON-AG 058.10 Flächenheizung&lt;&#x2F;li&gt;
+&lt;li&gt;ON-AG 122.08 Rohrleitungssysteme innerhalb von Gebäuden&lt;&#x2F;li&gt;
+&lt;li&gt;ON-AG 173.03 Hydraulische Schaltungen und Stagnationsverhalten&lt;&#x2F;li&gt;
+&lt;li&gt;ON-AG 122.19 Technische Maßnahmen gegen Erwärmung des Trinkwassers innerhalb von Gebäuden&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;seit-2010-1&quot;&gt;seit 2010&lt;&#x2F;h2&gt;
+&lt;p&gt;Überprüfungsorgan nach dem Burgenländischen Luftreinhalte-, Heizungsanlagengesetz&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
