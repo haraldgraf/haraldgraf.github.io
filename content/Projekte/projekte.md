@@ -11,15 +11,19 @@ tags = [
     "Lehndorferhof",
     "Konzernzentrale Strabag",
     "Sacher Wien","Sacher Salzburg",
-    "Hotel Bristol" 
+    "Hotel Bristol"
+]
 +++
 
 Umsetzung der Bereiche
+
 - Heizung
 - Klima
 - Sanitär
 - Lüftung
+
 von folgenden Projekten:
+
 - Umbau (1998) der [Sonnentherme Lutzmannsburg](https://www.sonnentherme.at)
 - [Gasometer C](https://www.gasometer.at/de/)
 - Neuerrichutng Bürogebäude (2002) **Lehndorferhof** ,  Floridsdorf am Spitz, Wien
